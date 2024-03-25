@@ -20,7 +20,7 @@ Understanding the algorithms behind machine learning models, such as neural netw
 
 ---
 
-Feel free to adjust and customize this text to better reflect your personality and interests!
+
 
 
 
