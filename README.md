@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vimash-Dilsara
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, and exploring the endless possibilities of technology.
+- 🌱 I’m currently learning new programming languages to broaden my expertise and deepen my understanding of AI concepts.
+- 💞️ I’m looking to collaborate on projects related to AI research, algorithm development, and innovative applications of machine learning.
+- 📫 How to reach me: https://www.youtube.com/
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm a boy and I once built a fully functional chatbot to help me with my daily tasks!
